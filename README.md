@@ -2,7 +2,7 @@
 Sample app demonstrating the zoom navigation transition style available from iOS 18
 
 Star the Repo if you found this useful: <picture><img align="center" alt="startherepo" src="https://github.com/anupdsouza/ios-miscellaneous/blob/bf5cb23d0ffbb21afa7b442540a7682df27c3b12/starrepo.gif" height="50" hspace="5"></picture><br/>
-Support Me: <a href="https://www.buymeacoffee.com/adsouza"><img align="center" alt="buymeacoffee" src="https://github.com/anupdsouza/ios-miscellaneous/blob/bf5cb23d0ffbb21afa7b442540a7682df27c3b12/bmc.png" height="30" hspace="5"></a> <a href="https://www.youtube.com/@swiftodyssey"><img align="center" alt="youtube" src="https://github.com/anupdsouza/ios-miscellaneous/blob/bf5cb23d0ffbb21afa7b442540a7682df27c3b12/subscribe.png" height="30" hspace="5"></a>
+Support Me: <a href="https://www.buymeacoffee.com/adsouza"><img align="center" alt="buymeacoffee" src="https://github.com/anupdsouza/ios-miscellaneous/blob/bf5cb23d0ffbb21afa7b442540a7682df27c3b12/bmc.png" height="30" hspace="5"></a> <a href="https://www.youtube.com/@areaswiftyone"><img align="center" alt="youtube" src="https://github.com/anupdsouza/ios-miscellaneous/blob/bf5cb23d0ffbb21afa7b442540a7682df27c3b12/subscribe.png" height="30" hspace="5"></a>
 
 ## Video
 ![Simulator Screen Recording - iPhone 15 Pro - 2024-06-12 at 14 16 49](https://github.com/anupdsouza/ios-zoom-navigation-transition/assets/103429618/3582302d-0476-4fd5-8488-63e95fb2911b)
